@@ -18,4 +18,5 @@
 ## Available Files Currently
 **File are as follows**
 1. [一元回归分析](https://pygeekpdfviewer.netlify.app/web/SimpleLinearRegression.pdf)
+2. [NLP为什么吸引我？](https://pygeekpdfviewer.netlify.app/web/SomethingAboutNLPbyKevin.pdf)
 
